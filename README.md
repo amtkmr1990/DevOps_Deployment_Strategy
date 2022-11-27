@@ -1,4 +1,4 @@
-# DevOps_Deployment_Strategy
+# DevOps Designing Strategy
 <H1>Summary</H1>
  This article describes, how you can
  
@@ -6,7 +6,7 @@
    - Templatize CICD pipelines into stages and steps 
    - Modularize pipelines for better management 
  
- Sharing some if the practices i used while designing my devops strategy. I will happy to accept inputs from all. 
+ Sharing practices i used while designing & implementing devops strategy. I will be happy to accept inputs from all. 
 
 <H1> Strategy Diagram </H1>
 
