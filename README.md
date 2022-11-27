@@ -4,7 +4,7 @@
  
    - Structure your application repositories 
    - Templatize CICD pipelines into stages and steps 
-   - Modularize pipelines for better management 
+   - Modularize templates for better management 
  
  Sharing practices i used while designing & implementing devops strategy. I will be happy to accept inputs from all. 
 
