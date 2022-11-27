@@ -7,4 +7,7 @@
  I am sharing practices i used while designing my devops strategy. I will happy to accept inputs from all. 
 
 <H1> Strategy Diagram </H1>
-![image](https://user-images.githubusercontent.com/19201621/204149489-481b5c75-98ab-417a-a147-10afc0f11a76.png)
+![alt text](https://user-images.githubusercontent.com/19201621/204149489-481b5c75-98ab-417a-a147-10afc0f11a76.png)
+
+
+
