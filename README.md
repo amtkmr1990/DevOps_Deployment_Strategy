@@ -15,7 +15,7 @@
 <H2> Repositories </H2>
  You can have seperate repos for API, UI and DBSQL. This can help parallel development and reduce PR conflits. 
  <b>src</b> folder can contain all source code files 
- **pipelines** folder will have our CICD pipelines. This yaml pipeline will call stage templates. Stage templates will call steps templates.
+ <b>pipelines</b> folder will have our CICD pipelines. This yaml pipeline will call stage templates. Stage templates will call steps templates.
 
 <H2> Stages </H2>
  Stage yaml template will define how to call step template (for each ENV) and pass required service connection and parameter. This makes easy to add or remove any step template and also reduce repetation of steps under each stages (Dev/UAT/PROD).  
